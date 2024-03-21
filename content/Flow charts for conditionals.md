@@ -19,3 +19,6 @@ The top image is an oval that says "start"
 
 (newer)
 ![[Pasted image 20240222132119.png]]
+
+- The point of the parallelogram is to specify input and output. 
+- 

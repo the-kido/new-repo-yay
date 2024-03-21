@@ -1,4 +1,4 @@
-A ATM will store data into the RAM, which stores le variable while the program is running. 
+An ATM will store data into the RAM, which stores le variable while the program is running. 
 It could be stored permanently on a server or something
 
 What is a variable?
@@ -13,15 +13,15 @@ Data types
 	- 1024 kilobyte in 1 megabyte
 	- etc.
 
-Primative types
+Primitive types (values with a `?` are wrong but Jeg said so)
 
-| Type | Size | Range |
-| ---- | ---- | ---- |
-| integer | 4 bytes | integers (-1, 0, 1, etc.) |
-| double | 8 bytes | Real numbers |
-| float | 4 bytes | Real numbers |
-| String | 32 bytes? | all characters |
-| Char | 1 byte | single letter |
-| bool | 1 byte | true, false |
-| Objects | ~~~ | ~~~ |
+| Type    | Size      | Range                     |
+| ------- | --------- | ------------------------- |
+| integer | 4 bytes   | integers (-1, 0, 1, etc.) |
+| double  | 8 bytes   | Real numbers              |
+| float   | 4 bytes   | Real numbers              |
+| String  | 32 bytes? | all characters            |
+| Char    | 1 byte?   | single letter             |
+| bool    | 1 byte    | true, false               |
+| Objects | ~~~       | ~~~                       |
 
